@@ -1,6 +1,5 @@
 import requests
 import keys
-import json
 parameters = {
     "lat": keys.latitude,
     "lon": keys.longitude,
